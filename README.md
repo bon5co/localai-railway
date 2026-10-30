@@ -1,5 +1,9 @@
 # localai-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/localai-or-just-updated-self-hosted-open?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [LocalAI template](https://railway.com/deploy/localai-or-just-updated-self-hosted-open?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [LocalAI](https://github.com/mudler/LocalAI) on Railway.
 
 Published as `ghcr.io/bon5co/localai-railway`. Used by the Railway template
